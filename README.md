@@ -22,8 +22,8 @@ asdasd
     ```bash
     npm install
     ```
-dsf asd asldk dsf 
-1. Start project. 
+
+1. Start project:
 
     ```bash
     npm start
