@@ -23,7 +23,7 @@ This is a basic Express.js server used for JS Dev Experience documentation, in p
     npm install
     ```
 
-1. Start project: 
+1. Start project. 
 
     ```bash
     npm start
